@@ -18,3 +18,4 @@ threading.Thread(target=start_speech_recognition).start()
 while True:
     print("Running main app...")
     input("Press enter to continue...")
+    break
